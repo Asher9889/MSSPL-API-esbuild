@@ -1,6 +1,5 @@
 # Learning
 - iisnode file is auto generated when browser opens.
-- We need to provide node_modules built along with package.json file
 - No need to provide port because in server we decide what port should be assign.
 
 
